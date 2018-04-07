@@ -15,17 +15,16 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         
-        
-        // Test your functions here. You have access to the icecream constant created above.
-        
-        
-        
+
         
         
         
         
     }
 
+    func attendeelist() -> String {
+        return "Deniz likes Natural Vanilla\nJim likes Natural Vanilla\nJoe likes Peanut Butter and Chocolate\nSophie likes Mexican Chocolate\nSusan likes Cookies 'N' Cream\nTim likes Natural Vanilla\nTom likes Mexican Chocolate"
+    }
     
 
 
